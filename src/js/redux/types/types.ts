@@ -1,0 +1,9 @@
+export const types =
+{
+    //GLOBAL
+    GLOBAL_INITING: "GLOBAL_INITING",
+    GLOBAL_INIT: "GLOBAL_INIT",
+
+    //USUARIOS
+    USUARIOS_SAVE: "USUARIOS_SAVE"
+}
